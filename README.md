@@ -1,7 +1,7 @@
 # Proyecto-Primer-Parcial
 Integrantes:
-- 
-- Ordóñez Quiroz fernando gbriel
+- Alomoto Pilamunga Oscar Alexander
+- Ordóñez Quiroz Fernando Gabriel
 - 
 
 ## LED NOCTURNO AUTOMÁTICO

@@ -4,4 +4,6 @@ Integrantes:
 - Ordóñez Quiroz Fernando Gabriel
 - 
 
-## LED NOCTURNO AUTOMÁTICO
+# LED NOCTURNO AUTOMÁTICO
+
+## 1. OBJETIVOS

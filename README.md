@@ -11,6 +11,10 @@ Integrantes:
 
 ## 2. MARCO TEÓRICO
 
+***INGENIERÍA INVERSA***
+
+![Esquema Mapa Conceptual Doodle Multicolor](https://user-images.githubusercontent.com/116774906/204401919-aa56e4f7-b145-453e-b05d-bdcaa7369a73.png)
+
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR

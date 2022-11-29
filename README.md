@@ -22,7 +22,7 @@ Integrantes:
 
 ## 2. MARCO TEÓRICO
 
-***COMPONENETES***
+***COMPONENTES***
 
 ![image](https://user-images.githubusercontent.com/104925648/204429031-61807b92-9371-434d-a160-59de2d740bd8.png)
 

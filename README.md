@@ -58,7 +58,7 @@ Integrantes:
         
       - Permite que la creación de nuevas piezas sea un proceso más sencillo, al haber podido extraer toda la información sobre la pieza actual.
       
- ![image](https://user-images.githubusercontent.com/104925648/204436324-db673b91-5262-430e-a4df-cae5c4fc5b37.png)
+![image](https://user-images.githubusercontent.com/104925648/204437046-10e24a87-6b90-4a18-af04-e8c856996f5c.png)
 
 - 2.- ¿El potenciómetro es una resistencia variable?
 - 3.- ¿Porqué se usan en mayor cantidad circuitos en serie?
@@ -72,3 +72,7 @@ Integrantes:
 ## 7. BIBLIOGRAFÍA
 
 -Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación
+-Xtrategics. (s/f). Beneficios, utilidad y características de la ingeniería inver. Beneficios, utilidad y características de la ingeniería inver. Recuperado el 29 de noviembre de 2022, de https://www.dibtec3d.com/actualidad/usos-y-beneficios-de-la-ingeniera-inversa/
+
+
+

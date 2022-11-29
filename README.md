@@ -78,7 +78,12 @@ Este proceso de ingeniería inversa conlleva una serie de beneficios respecto al
 
 El potenciómetro (también conocido como pot) es un dispositivo electrónico con un valor de resistencia variable y generalmente ajustable manualmente que se puede usar para medir posición angular. Los potenciómetros tienen tres terminales y se suelen utilizar en circuitos de corriente baja, para circuitos de mayor corriente se utilizan los reóstatos. En muchos dispositivos eléctricos los potenciómetros son los que establecen el nivel de salida. Por ejemplo, en un altavoz, el potenciómetro ajusta el volumen; en un televisor o un monitor de ordenador se puede utilizar para controlar el brillo.
 
-- 3.- ¿Porqué se usan en mayor cantidad circuitos en serie?
+- 3.- ¿Cuáles con las ventajas de un circuito en serie?
+
+La mayor ventaja de un circuito en serie es que puede agregar dispositivos de potencia adicionales, generalmente con baterías. 
+Los circuitos en serie son fáciles de aprender y de hacer. Su diseño simple es fácil de entender, y esto significa que es simple realizar reparaciones sin la ayuda de un profesional. Esto también te ayudará a calcular el voltaje de tu circuito fácilmente.
+Los circuitos de la serie tampoco se sobrecalientan fácilmente. Esto los hace muy útiles en el caso de algo que podría estar cerca de una fuente potencialmente inflamable, como plantas secas o tela. Esta ventaja es también una de las principales razones por las que los circuitos en serie se usan con luces navideñas. 
+
 - 4.- ¿Cómo funciona la fotoresistencia?
 - 5.- ¿Cuáles son las aplicaciones del transistor NPN 2N3904?
 
@@ -91,6 +96,8 @@ El potenciómetro (también conocido como pot) es un dispositivo electrónico co
 - Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación
 - Xtrategics. (s/f). Beneficios, utilidad y características de la ingeniería inver. Beneficios, utilidad y características de la ingeniería inver. Recuperado el 29 de noviembre de 2022, de https://www.dibtec3d.com/actualidad/usos-y-beneficios-de-la-ingeniera-inversa/
 - Latam, M. (2020, February 21). Potenciómetro. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/potenciometro/
+- 3 ventajas de un circuito de serie. (n.d.). nrelectricidad - Información de mejoras para el hogar. Retrieved November 29, 2022, from https://es.nrelectricidad.com/articles/electrical-electronics/wiring-projects/3-advantages-of-a-series-circuit.html
+
 
 
 

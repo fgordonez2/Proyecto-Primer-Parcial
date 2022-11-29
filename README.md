@@ -44,6 +44,24 @@ Integrantes:
 
 ***PROCEDIMIENTO DE LA INGENIERÍA INVERSA***
 
+*1. Colocamos nuestro protoboard que es el instrumento que nos permite probar un diseño del circuito sin la necesidad de soldar componentes, y los componentes forman un circuito temporal.*
+
+*2. Ubicamos el transistor en el protoboard que es el elemento semiconductor que permite el paso de una señal en respuesta a otra. Este se compone de un colector, base y emisor.*
+
+*3. Conectamos los diodos LED en serie al emisor del transistor que es la terminal por el cual salen los portadores de carga.*
+
+*4. Se conecta la resistencia de 10k ohm en serie, esto se lo hace para que haya un ajuste máximo en el brillo de los diodos LED, que dicho brillo es independiente a cada diodo.*
+
+*5. Seguimos en serie la conexión de la resistencia de 10k ohm hasta conectarlo al potenciómetro, que es similar a las resistencias, pero lo que es diferente es su valor de resistencia que en vez de ser fijo es variable, permitiendo controlar la intensidad de corriente a lo largo de un circuito conectándolo en paralelo o la caída de tensión al conectarlo en serie.*
+
+*6. Este potenciómetro se compone de terminales, Terminal fija, Terminal Variable, Terminal fija. La resistencia de 10k ohm se la coloca en serie a la primera terminal fija del potenciómetro.*
+
+*7. Realizamos una conexión por medio de un alambre conductor desde la terminal variable del potenciómetro hasta la terminal base del transistor. Esto nos permitirá controlar la intensidad de corriente que se dirige hacia los diodos.*
+
+*8. En cuanto a la fotorresistencia que es una resistencia que varía en función de la luz que incide sobre su superficie, cuanto mayor sea la intensidad de la luz menor será su resistencia y cuanta menos luz incida mayor será su resistencia, la conectamos su terminal positiva al terminal colector del transistor y su terminal negativa a la terminal negativa del protoboard.*
+
+*9. Finalmente conectamos la batería de 9V al circuito, esta será nuestra fuente de voltaje que ayudara a que el circuito funcione adecuadamente, los terminales de la batería van conectados de la siguiente manera, polo positivo de la batería al polo positivo del protoboard y así mismo con el polo negativo.*
+
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 ***1.- ¿Cuál es la importancia de usar la Ingeniería Inversa?***

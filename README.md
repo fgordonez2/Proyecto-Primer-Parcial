@@ -7,15 +7,18 @@ Integrantes:
 # LED NOCTURNO AUTOMÁTICO
 
 ## 1. OBJETIVOS
-## General
 
- - Conocer las principales características de un led nocturno automático como su estructura y funcionamiento, mediante la experimentación
-   en un ciruito físico, para proponer un prototipo similar de ayuda ante la sociedad
-   
-## Espec+ificos
- - Analizar los componenetes usados 
- - Comparar dicho proyecto con otros sitemas mecatrónicos parecidos 
- - Determinar los difrentes usos de este proyecto a mayor escala
+***General***
+
+*- Conocer las principales características de un led nocturno automático, con la ayuda de la ingenieria inversa para conocer caracteristicas, funcionamiento  y que aporta cada elemento usado para el correcto funcionamiento del circuito.*
+
+***Especificos***
+
+*- Analizar las propiedades, funciones y operaciones que realiza cada componte usado para armar el circuito.*
+
+*- Comparar dicho proyecto con otros sitemas mecatrónicos parecidos.*
+
+*- Determinar los difrentes usos de este proyecto a mayor escala.*
 
 ## 2. MARCO TEÓRICO
 

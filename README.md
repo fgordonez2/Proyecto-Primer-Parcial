@@ -90,6 +90,9 @@ El potenciómetro (también conocido como pot) es un dispositivo electrónico co
 
 - Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación
 - Xtrategics. (s/f). Beneficios, utilidad y características de la ingeniería inver. Beneficios, utilidad y características de la ingeniería inver. Recuperado el 29 de noviembre de 2022, de https://www.dibtec3d.com/actualidad/usos-y-beneficios-de-la-ingeniera-inversa/
+- Latam, M. (2020, February 21). Potenciómetro. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/potenciometro/
+
+
 
 
 

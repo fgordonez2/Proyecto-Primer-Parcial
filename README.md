@@ -75,6 +75,9 @@ Este proceso de ingeniería inversa conlleva una serie de beneficios respecto al
 ![image](https://user-images.githubusercontent.com/104925648/204437046-10e24a87-6b90-4a18-af04-e8c856996f5c.png)
 
 - 2.- ¿El potenciómetro es una resistencia variable?
+
+El potenciómetro (también conocido como pot) es un dispositivo electrónico con un valor de resistencia variable y generalmente ajustable manualmente que se puede usar para medir posición angular. Los potenciómetros tienen tres terminales y se suelen utilizar en circuitos de corriente baja, para circuitos de mayor corriente se utilizan los reóstatos. En muchos dispositivos eléctricos los potenciómetros son los que establecen el nivel de salida. Por ejemplo, en un altavoz, el potenciómetro ajusta el volumen; en un televisor o un monitor de ordenador se puede utilizar para controlar el brillo.
+
 - 3.- ¿Porqué se usan en mayor cantidad circuitos en serie?
 - 4.- ¿Cómo funciona la fotoresistencia?
 - 5.- ¿Cuáles son las aplicaciones del transistor NPN 2N3904?

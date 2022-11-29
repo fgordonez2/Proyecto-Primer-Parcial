@@ -104,11 +104,12 @@ los Aplicaciones del transistor NPN 2N3904 Incluya lo siguiente.
 
 ## 6. CONCLUSIONES
 
-*-Se pudo analizar las propiedades, funciones y operaciones que realiza cada componente al momento de armar el circuito, y se pudo deducir la importancia que tenia cada elemento y el rol que cumplia cada uno, asi mismo bajo el mismo principio de analisis, cuando el componente no cumpla con las caracterisitcas indicadas o no funcione se lo puede mejorar, ya sea modificandolo o reemplazandolo por un elemento mejor, que cumpla con los requerimientos y especificaciones del circuito.* 
+*-Se pudo analizar las propiedades, funciones y operaciones que realiza cada componente al momento de armar el circuito, y se pudo deducir la importancia que tenía cada elemento y el rol que cumplía cada uno, así mismo bajo el mismo principio de análisis, cuando el componente no cumpla con las características indicadas o no funcione se lo puede mejorar, ya sea modificándolo o reemplazándolo por un elemento mejor, que cumpla con los requerimientos y especificaciones del circuito.*
 
-*- Comparar dicho proyecto con otros sitemas mecatrónicos parecidos.*
+*-Una comparación muy importante relacionado a nuestro proyecto, lo encontramos en el alumbrado público, ya que se basa en el mismo principio de nuestro proyecto, ya que, si nosotros evitamos que ingrese luz por la fotorresistencia, los diodos LEDS se encenderán. El alumbrado público en el día cuando la luz del sol está presente, mantiene sus focos apagados, hasta que oscurezca y la luz sea mínima ahí puede encender las bombillas o focos de luz.* 
 
-*- Determinar los difrentes usos de este proyecto a mayor escala.*
+*- Este proyecto se lo puede usar a mayor escala en la automatización y dogmática de casas o de centros comerciales, que buscan principalmente el ahorro de energía eléctrica, mediante circuitos automatizados que cumplan los mismos funcionamientos que se presentó en el proyecto.*
+
 ## 7. BIBLIOGRAFÍA
 
 - Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación

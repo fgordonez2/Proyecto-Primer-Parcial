@@ -90,7 +90,15 @@ La base del funcionamiento de una fotorresistencia radica en su componente princ
 
 - 5.- ¿Cuáles son las aplicaciones del transistor NPN 2N3904?
 
+los Aplicaciones del transistor NPN 2N3904 Incluya lo siguiente.
 
+- Este transistor se utiliza en módulos de controlador como controlador de LED, controlador de relé, etc.
+- Se utiliza en módulos amplificadores como amplificador de señal, amplificador de audio, etc.
+- Los voltajes como VBE y VCB son altos, por lo que se pueden usar para controlar cargas de voltaje de hasta 40 V.
+- Por lo general, se usa en televisores y otros electrodomésticos.
+- Cuando funciona como un interruptor, controla cargas pesadas debido a la alta ganancia y al menor voltaje de saturación.
+- Este transistor también se puede utilizar en aplicaciones de conmutación rápida como PWM (modulación de ancho de pulso) debido a su rápida velocidad de conmutación.
+- Se utiliza en amplificadores de sonido, ya que incluye una alta ganancia de corriente, por lo que se utiliza como amplificador.
 
 ## 5. VIDEO
 
@@ -103,6 +111,8 @@ La base del funcionamiento de una fotorresistencia radica en su componente princ
 - Latam, M. (2020, February 21). Potenciómetro. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/potenciometro/
 - 3 ventajas de un circuito de serie. (n.d.). nrelectricidad - Información de mejoras para el hogar. Retrieved November 29, 2022, from https://es.nrelectricidad.com/articles/electrical-electronics/wiring-projects/3-advantages-of-a-series-circuit.html
 - R., J. L. (2017, November 24). FOTORRESISTENCIA (LDR). ComoFunciona | Explicaremos hasta cosas que NO existen!; ComoFunciona. https://como-funciona.co/una-fotorresistencia/
+- (N.d.). Electrositio.com. Retrieved November 29, 2022, from https://electrositio.com/transistor-npn-2n3904-configuracion-de-pines-y-sus-aplicaciones/
+
 
 
 

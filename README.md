@@ -47,6 +47,7 @@ Integrantes:
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 - 1.- ¿Cuál es la importancia de usar la Ingeniería Inversa?
+
       Este proceso de ingeniería inversa conlleva una serie de beneficios respecto al proceso tradicional de creación y modificación de piezas:
       
       - Permite modificar características de la pieza original de forma digital, mejorando su funcionalidad

@@ -46,17 +46,13 @@ Integrantes:
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-- 1.- ¿Cuál es la importancia de usar la Ingeniería Inversa?
+***1.- ¿Cuál es la importancia de usar la Ingeniería Inversa?***
 
-      Este proceso de ingeniería inversa conlleva una serie de beneficios respecto al proceso tradicional de creación y modificación de piezas:
+Este proceso de ingeniería inversa conlleva una serie de beneficios respecto al proceso tradicional de creación y modificación de piezas:
       
-      - Permite modificar características de la pieza original de forma digital, mejorando su funcionalidad
-        sobre todo sin perder la base de la propia pieza.
+- Permite modificar características de la pieza original de forma digital, mejorando su funcionalidad sobre todo sin perder la base de la propia pieza.
         
-      - El escaneado 3D permite obtener el archivo VAD, por lo que se podrá recrear el historial del componente, además dicho archico
-        permitirá realizar más  modificaciones a la pieza en el furuto.
-        
-      - Permite que la creación de nuevas piezas sea un proceso más sencillo, al haber podido extraer toda la información sobre la pieza actual.
+- Permite que la creación de nuevas piezas sea un proceso más sencillo, al haber podido extraer toda la información sobre la pieza actual.
       
 ![image](https://user-images.githubusercontent.com/104925648/204437046-10e24a87-6b90-4a18-af04-e8c856996f5c.png)
 

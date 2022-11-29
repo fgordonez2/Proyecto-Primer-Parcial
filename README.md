@@ -108,6 +108,8 @@ los Aplicaciones del transistor NPN 2N3904 Incluya lo siguiente.
 
 *LINK DEL VIDEO*
 
+https://youtu.be/Je0bpy2ip6c
+
 ## 6. CONCLUSIONES
 
 *-Se pudo analizar las propiedades, funciones y operaciones que realiza cada componente al momento de armar el circuito, y se pudo deducir la importancia que tenía cada elemento y el rol que cumplía cada uno, así mismo bajo el mismo principio de análisis, cuando el componente no cumpla con las características indicadas o no funcione se lo puede mejorar, ya sea modificándolo o reemplazándolo por un elemento mejor, que cumpla con los requerimientos y especificaciones del circuito.*

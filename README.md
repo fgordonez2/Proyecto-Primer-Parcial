@@ -10,7 +10,7 @@ Integrantes:
 ## General
 
  - Conocer las principales características de un led nocturno automático como su estructura y funcionamiento, mediante la experimentación
-   en un ciruito físico, para porponer un prototipo similar de ayuda ante la sociedad
+   en un ciruito físico, para proponer un prototipo similar de ayuda ante la sociedad
    
 ## Espec+ificos
  - Analizar los componenetes usados 

@@ -26,3 +26,5 @@ Integrantes:
 ## 7. BIBLIOGRAFÍA
 
 -Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación
+
+-*¿QUÉ ES INGENIERÍA INVERSA?*. (2021, 17 de abril). Recuperado el 28 de noviembre de 2022 de: https://www.creaform3d.com/blog/es/que-es-ingenieria-inversa/#:~:text=La%20ingenier%C3%ADa%20inversa%20es%20el,su%20estructura%2C%20funciones%20y%20operaciones.

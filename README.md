@@ -71,8 +71,8 @@ Integrantes:
 
 ## 7. BIBLIOGRAFÍA
 
--Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación
--Xtrategics. (s/f). Beneficios, utilidad y características de la ingeniería inver. Beneficios, utilidad y características de la ingeniería inver. Recuperado el 29 de noviembre de 2022, de https://www.dibtec3d.com/actualidad/usos-y-beneficios-de-la-ingeniera-inversa/
+- Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación
+- Xtrategics. (s/f). Beneficios, utilidad y características de la ingeniería inver. Beneficios, utilidad y características de la ingeniería inver. Recuperado el 29 de noviembre de 2022, de https://www.dibtec3d.com/actualidad/usos-y-beneficios-de-la-ingeniera-inversa/
 
 
 

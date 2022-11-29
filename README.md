@@ -50,6 +50,7 @@ Integrantes:
 - 2.- ¿El potenciómetro es una resistencia variable?
 - 3.- ¿Porqué se usan en mayor cantidad circuitos en serie?
 - 4.- ¿Cómo funciona la fotoresistencia?
+- 5.- ¿Cuáles son las aplicaciones del transistor NPN 2N3904?
 
 ## 5. VIDEO
 

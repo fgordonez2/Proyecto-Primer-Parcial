@@ -46,10 +46,10 @@ Integrantes:
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-1.- ¿Cuál es la importancia de usar la Ingeniería Inversa?
-2.- ¿El potenciómetro es una resistencia variable?
-3.- ¿Porqué se usan en mayor cantidad circuitos en serie?
-4.- ¿Cómo funciona la fotoresistencia?
+- 1.- ¿Cuál es la importancia de usar la Ingeniería Inversa?
+- 2.- ¿El potenciómetro es una resistencia variable?
+- 3.- ¿Porqué se usan en mayor cantidad circuitos en serie?
+- 4.- ¿Cómo funciona la fotoresistencia?
 
 ## 5. VIDEO
 

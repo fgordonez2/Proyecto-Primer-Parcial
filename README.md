@@ -47,6 +47,11 @@ Integrantes:
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 - 1.- ¿Cuál es la importancia de usar la Ingeniería Inversa?
+      Este proceso de ingeniería inversa conlleva una serie de beneficios respecto al proceso tradicional de creación y modificación de piezas:
+
+       - Permite modificar características de la pieza original de forma digital, mejorando su funcionalidad y sin perder la base de la propia pieza.
+       - El escaneado 3D permite obtener el archivo CAD, por lo que se podrá recrear el historial del componente. Además, dicho archivo permitirá realizar más                   modificaciones a la pieza en el futuro.
+       - Permite que la creación de nuevas piezas sea un proceso más sencillo, al haber podido extraer toda la información sobre la pieza actual.
 - 2.- ¿El potenciómetro es una resistencia variable?
 - 3.- ¿Porqué se usan en mayor cantidad circuitos en serie?
 - 4.- ¿Cómo funciona la fotoresistencia?

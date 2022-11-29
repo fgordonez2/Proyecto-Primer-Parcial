@@ -74,21 +74,21 @@ Este proceso de ingeniería inversa conlleva una serie de beneficios respecto al
       
 ![image](https://user-images.githubusercontent.com/104925648/204437046-10e24a87-6b90-4a18-af04-e8c856996f5c.png)
 
-***2.- ¿El potenciómetro es una resistencia variable?***
+- 2.- ¿El potenciómetro es una resistencia variable?
 
 El potenciómetro (también conocido como pot) es un dispositivo electrónico con un valor de resistencia variable y generalmente ajustable manualmente que se puede usar para medir posición angular. Los potenciómetros tienen tres terminales y se suelen utilizar en circuitos de corriente baja, para circuitos de mayor corriente se utilizan los reóstatos. En muchos dispositivos eléctricos los potenciómetros son los que establecen el nivel de salida. Por ejemplo, en un altavoz, el potenciómetro ajusta el volumen; en un televisor o un monitor de ordenador se puede utilizar para controlar el brillo.
 
-***3.- ¿Cuáles con las ventajas de un circuito en serie?***
+- 3.- ¿Cuáles con las ventajas de un circuito en serie?
 
 La mayor ventaja de un circuito en serie es que puede agregar dispositivos de potencia adicionales, generalmente con baterías. 
 Los circuitos en serie son fáciles de aprender y de hacer. Su diseño simple es fácil de entender, y esto significa que es simple realizar reparaciones sin la ayuda de un profesional. Esto también te ayudará a calcular el voltaje de tu circuito fácilmente.
 Los circuitos de la serie tampoco se sobrecalientan fácilmente. Esto los hace muy útiles en el caso de algo que podría estar cerca de una fuente potencialmente inflamable, como plantas secas o tela. Esta ventaja es también una de las principales razones por las que los circuitos en serie se usan con luces navideñas. 
 
-***4.- ¿Cómo funciona la fotorresistencia?***
+- 4.- ¿Cómo funciona la fotorresistencia?
 
 La base del funcionamiento de una fotorresistencia radica en su componente principal, el sulfuro de cadmio (CdS). Este componente químico es un semiconductor que tiene la capacidad de variar su resistencia según la cantidad de luz que en él incida.
 
-***5.- ¿Cuáles son las aplicaciones del transistor NPN 2N3904?***
+- 5.- ¿Cuáles son las aplicaciones del transistor NPN 2N3904?
 
 los Aplicaciones del transistor NPN 2N3904 Incluya lo siguiente.
 
@@ -104,6 +104,11 @@ los Aplicaciones del transistor NPN 2N3904 Incluya lo siguiente.
 
 ## 6. CONCLUSIONES
 
+*-Se pudo analizar las propiedades, funciones y operaciones que realiza cada componente al momento de armar el circuito, y se pudo deducir la importancia que tenia cada elemento y el rol que cumplia cada uno, asi mismo bajo el mismo principio de analisis, cuando el componente no cumpla con las caracterisitcas indicadas o no funcione se lo puede mejorar, ya sea modificandolo o reemplazandolo por un elemento mejor, que cumpla con los requerimientos y especificaciones del circuito.* 
+
+*- Comparar dicho proyecto con otros sitemas mecatrónicos parecidos.*
+
+*- Determinar los difrentes usos de este proyecto a mayor escala.*
 ## 7. BIBLIOGRAFÍA
 
 - Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación

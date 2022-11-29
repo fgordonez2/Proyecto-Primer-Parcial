@@ -108,7 +108,7 @@ los Aplicaciones del transistor NPN 2N3904 Incluya lo siguiente.
 
 *LINK DEL VIDEO*
 
-https://youtu.be/Je0bpy2ip6c
+https://youtu.be/XrNzfG7Zq9I
 
 ## 6. CONCLUSIONES
 

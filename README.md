@@ -34,6 +34,16 @@ Integrantes:
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+***CIRCUITO ARMADO***
+
+![1](https://user-images.githubusercontent.com/116774906/204432646-084ceb57-db4e-4525-9180-a1be6c119993.jpg)
+
+***CIRCUITO FUNCIONANDO***
+
+![2](https://user-images.githubusercontent.com/116774906/204432694-a51a9332-3bf8-4cf4-9300-369c2c491553.jpg)
+
+***PROCEDIMIENTO DE LA INGENIERÍA INVERSA***
+
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 ## 5. VIDEO

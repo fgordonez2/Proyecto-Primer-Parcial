@@ -32,6 +32,10 @@ Integrantes:
 
 ![Esquema Mapa Conceptual Doodle Multicolor](https://user-images.githubusercontent.com/116774906/204401919-aa56e4f7-b145-453e-b05d-bdcaa7369a73.png)
 
+***INGENIERÍA INVERSA PRESENTE EN EL CIRCUITO***
+
+![image](https://user-images.githubusercontent.com/116705680/204545196-19ece777-cf5a-4bb5-992d-0301ac051b62.png)
+
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 ***CIRCUITO ARMADO***

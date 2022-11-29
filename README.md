@@ -75,31 +75,27 @@ Este proceso de ingeniería inversa conlleva una serie de beneficios respecto al
 ![image](https://user-images.githubusercontent.com/104925648/204437046-10e24a87-6b90-4a18-af04-e8c856996f5c.png)
 
 - 2.- ¿El potenciómetro es una resistencia variable?
-
-El potenciómetro (también conocido como pot) es un dispositivo electrónico con un valor de resistencia variable y generalmente ajustable manualmente que se puede usar para medir posición angular. Los potenciómetros tienen tres terminales y se suelen utilizar en circuitos de corriente baja, para circuitos de mayor corriente se utilizan los reóstatos. En muchos dispositivos eléctricos los potenciómetros son los que establecen el nivel de salida. Por ejemplo, en un altavoz, el potenciómetro ajusta el volumen; en un televisor o un monitor de ordenador se puede utilizar para controlar el brillo.
-
-- 3.- ¿Cuáles con las ventajas de un circuito en serie?
-
-La mayor ventaja de un circuito en serie es que puede agregar dispositivos de potencia adicionales, generalmente con baterías. 
-Los circuitos en serie son fáciles de aprender y de hacer. Su diseño simple es fácil de entender, y esto significa que es simple realizar reparaciones sin la ayuda de un profesional. Esto también te ayudará a calcular el voltaje de tu circuito fácilmente.
-Los circuitos de la serie tampoco se sobrecalientan fácilmente. Esto los hace muy útiles en el caso de algo que podría estar cerca de una fuente potencialmente inflamable, como plantas secas o tela. Esta ventaja es también una de las principales razones por las que los circuitos en serie se usan con luces navideñas. 
-
+- 3.- ¿Porqué se usan en mayor cantidad circuitos en serie?
 - 4.- ¿Cómo funciona la fotoresistencia?
 - 5.- ¿Cuáles son las aplicaciones del transistor NPN 2N3904?
 
 ## 5. VIDEO
 
+Link del video en YouTube:
+
+
 ## 6. CONCLUSIONES
+
+*-Con la realizacion del proyecto se pudo analizar y comprender de gran medida las propiedades, funciones y operaciones de cada elemento que compone el circuito que presentamos, cada componente tiene un rol muy importante en el buen desempeño del circuito, y mediante esos analisis se pudo deducir si algun elemento no funciona o no corresponde con las caractetisticas que se dispone, y asi poder cambiar o mejorar el elemento para que funcione de la manera correcta.*
+
+*-Se pudo encontrar que este proyecto a verdad de ser  muy simple, es muy empleado en la automatizacion y dogmotica de casas, ya que con multiples sensores, conexiones y focos se puede replicar exactamente el proyecto expuesto, ya que se usan otros elementos pero que basicamente cumplen la misma funcion, y claro esta su desempeño y rango es mucho mejor a los que nosotros dispusimos para armar nuestro circuito.* 
+
+*-Se determino que el uso que se le dio a este proyecto a una escala mucho mayor se ve reflejado en el alumbrado publico, ya que nuestro proyecto si tapamos la fotoresistencia (evitar el ingreso de luz) el led se encendia, este principio usa el alumbrado publico, que en las mañanas cuando hay mucha luz los focos se mantienen apagados, pero cuando llega la noche o hay poca luz, las luces se encienden.*
 
 ## 7. BIBLIOGRAFÍA
 
 - Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación
 - Xtrategics. (s/f). Beneficios, utilidad y características de la ingeniería inver. Beneficios, utilidad y características de la ingeniería inver. Recuperado el 29 de noviembre de 2022, de https://www.dibtec3d.com/actualidad/usos-y-beneficios-de-la-ingeniera-inversa/
-- Latam, M. (2020, February 21). Potenciómetro. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/potenciometro/
-- 3 ventajas de un circuito de serie. (n.d.). nrelectricidad - Información de mejoras para el hogar. Retrieved November 29, 2022, from https://es.nrelectricidad.com/articles/electrical-electronics/wiring-projects/3-advantages-of-a-series-circuit.html
-
-
-
 
 
 

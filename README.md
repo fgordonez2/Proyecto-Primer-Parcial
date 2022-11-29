@@ -57,6 +57,8 @@ Integrantes:
         
       - Permite que la creación de nuevas piezas sea un proceso más sencillo, al haber podido extraer toda la información sobre la pieza actual.
       
+ ![image](https://user-images.githubusercontent.com/104925648/204436324-db673b91-5262-430e-a4df-cae5c4fc5b37.png)
+
 - 2.- ¿El potenciómetro es una resistencia variable?
 - 3.- ¿Porqué se usan en mayor cantidad circuitos en serie?
 - 4.- ¿Cómo funciona la fotoresistencia?

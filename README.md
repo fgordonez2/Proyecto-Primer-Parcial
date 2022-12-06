@@ -10,7 +10,7 @@ Integrantes:
 
 ***General***
 
-*- Conocer las principales características de un led nocturno automático, con la ayuda de la ingenieria inversa para conocer caracteristicas, funcionamiento  y que aporta cada elemento usado para el correcto funcionamiento del circuito.*
+*- Conocer el funcionamiento del proyecto led nocturno automático, con la ayuda de la ingenieria inversa para conocer caracteristicas, funcionamiento  y que aporta cada elemento usado para que el circuito funcione de una manera eficiente y correcta.*
 
 ***Especificos***
 

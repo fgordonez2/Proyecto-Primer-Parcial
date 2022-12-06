@@ -26,7 +26,7 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/104925648/204429031-61807b92-9371-434d-a160-59de2d740bd8.png)
 
-![image](https://user-images.githubusercontent.com/104925648/204429089-e5b9f609-6f53-4935-9f86-b957d73d1aae.png)
+![image](https://user-images.githubusercontent.com/104925648/205787434-c78ffb50-a80f-4e08-892c-c9456b776e1c.png)
 
 ***INGENIERÍA INVERSA***
 
